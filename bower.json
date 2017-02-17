@@ -1,0 +1,11 @@
+{
+  "name": "sandbox",
+  "description": "skunk works project",
+  "authors": [
+    "Graham Perry"
+  ],
+  "private": true,
+  "dependencies": {
+    "core": "X:\\secure\\docs\\webapps\\source\\corev1.1.git#master"
+  }
+}
